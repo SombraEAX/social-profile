@@ -4,6 +4,8 @@ A modern, mobile-friendly SPA built with **Nuxt 4** for showcasing a personal br
 
 ![Screenshot](/screenshot.png)
 
+Live preview: [https://social-profile-3xpz.onrender.com/](https://social-profile-3xpz.onrender.com/)
+
 ## Tech Stack
 
 - **Framework:** Nuxt 4 (SPA mode, `ssr: false`)
