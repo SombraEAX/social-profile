@@ -2,6 +2,8 @@
 
 A modern, mobile-friendly SPA built with **Nuxt 4** for showcasing a personal brand or real estate agent profile. Features a clean card-style layout with social links, a property gallery, and a QR code popup.
 
+![Screenshot](/screenshot.png)
+
 ## Tech Stack
 
 - **Framework:** Nuxt 4 (SPA mode, `ssr: false`)
